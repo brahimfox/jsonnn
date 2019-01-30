@@ -1,0 +1,33 @@
+{
+    "apps":
+
+     [{
+       "app_title": "TubeMate",
+       "app_desc": "Videos downloader",
+       "app_icon": "https://dl1.cbsistatic.com/i/r/2018/12/13/15824f8a-8b07-4208-b45a-1a1a221a646d/thumbnail/64x64/32a90aa1bded3cb4f02c4348f7026dac/imgingest-5144182653855776112.png",
+       "app_header_image": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2012/10/tubemate-header.jpg",
+       "app_uri": "https://apkpure.com/tubemate-video-downloader/devian.tubemate.home/download?from=details",
+       "app_rating": "4.7",
+       "app_cta_text": "Install",
+       "app_price": "Free",
+       "app_adType": "dialog"
+     },
+
+     {
+       "app_interstitial_url": "https://2.bp.blogspot.com/-xacWoOq1p_k/WVfmoH12NAI/AAAAAAAAC98/XFr3zHoT36cggaRv5VrRwuNOtoTe183YQCLcBGAs/s1600/tubemate-youtubedownloader-227.png",
+       "app_uri": "https://apkpure.com/tubemate-video-downloader/devian.tubemate.home/download?from=details",
+       "app_adType": "interstitial"
+     },
+      
+     {
+     "app_title": "tubemate",
+     "app_desc": "Videos downloader",
+     "app_icon": "https://dl1.cbsistatic.com/i/r/2018/12/13/15824f8a-8b07-4208-b45a-1a1a221a646d/thumbnail/64x64/32a90aa1bded3cb4f02c4348f7026dac/imgingest-5144182653855776112.png",
+     "app_header_image": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2012/10/tubemate-header.jpg",
+     "app_uri": "https://apkpure.com/tubemate-video-downloader/devian.tubemate.home/download?from=details",
+     "app_rating": "4.8",
+     "app_cta_text": "Install Now",
+     "app_price": "Free",
+     "app_adType": "native"
+     }]
+    }
